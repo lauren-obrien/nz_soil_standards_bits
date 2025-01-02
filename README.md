@@ -1,2 +1,2 @@
-# nz_soil_standards_bits
+# NZ soil standards bits
 Helper documents for the New Zealand Soil Description manual
